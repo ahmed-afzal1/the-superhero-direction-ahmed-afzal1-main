@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "name": "Sewing-Embroidery-Machines",
+        "condition": "used",
+        "bids": "0",
+        "img": "https://images.unsplash.com/photo-1522527152813-42c29f053b0e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "lowestPrice": 50.36,
+        "HighestPrice": 600
+    },
+    {
+        "id": "2",
+        "name": "Pietro Conti da Cilavegna",
+        "condition": "used",
+        "bids": "10",
+        "img": "https://images.unsplash.com/photo-1611517049947-acf3777c55bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=872&q=80",
+        "lowestPrice": 150,
+        "HighestPrice": "N/A"
+    },
+    {
+        "id": "3",
+        "name": "Sewing-Embroidery-Machines",
+        "condition": "used",
+        "bids": "17",
+        "img": "https://images.unsplash.com/photo-1522128311549-c47846e6ef7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+        "lowestPrice": 40.5,
+        "HighestPrice": "N/A"
+    },
+    {
+        "id": "4",
+        "name": "1893-S $1 Morgan Silver Dollar Coin PCGS VG08 CAC",
+        "condition": "used",
+        "bids": "10",
+        "img": "https://images.unsplash.com/photo-1602432140723-b88c8b054b26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        "lowestPrice": 12.73,
+        "HighestPrice": "N/A"
+    },
+    {
+        "id": "5",
+        "name": "Oriental Japan Large Format Field Camera",
+        "condition": "used",
+        "bids": "12",
+        "img": "https://images.unsplash.com/photo-1531790802278-dc1baeea3013?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "lowestPrice": 28.4,
+        "HighestPrice": 100
+    },
+    {
+        "id": "6",
+        "name": "Girl with a Pearl Earring",
+        "condition": "used",
+        "bids": "20",
+        "img": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=866&q=80",
+        "lowestPrice": 8.75,
+        "HighestPrice": "N/A"
+    },
+    {
+        "id": "7",
+        "name": "Sandro Botticelli",
+        "condition": "used",
+        "bids": "10",
+        "img": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+        "lowestPrice": 6,
+        "HighestPrice": "N/A"
+    },
+    {
+        "id": "8",
+        "name": "MERCEDES 300SL GULLWING",
+        "condition": "used",
+        "bids": "0",
+        "img": "https://images.unsplash.com/photo-1572293903665-f11b6c8e95e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+        "lowestPrice": 1100,
+        "HighestPrice": "N/A"
+    },
+    {
+        "id": "9",
+        "name": "1763-S VOLKSWAGEN BEETLE",
+        "condition": "used",
+        "bids": "2",
+        "img": "https://images.unsplash.com/photo-1526284059721-5519814a2274?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "lowestPrice": 999.99,
+        "HighestPrice": 2500
+    }
+    
+]
